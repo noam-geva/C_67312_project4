@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C_Cpp/project_4/HashMap.c
+HashMap.h
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C_Cpp/project_4/HashMap.h
+
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C_Cpp/project_4/HashMap.h
+stdlib.h
+-
+Vector.h
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C_Cpp/project_4/Vector.h
+Pair.h
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C_Cpp/project_4/Pair.h
+
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C_Cpp/project_4/Pair.h
+stdlib.h
+-
+
+/cygdrive/c/Users/noamg/OneDrive/Desktop/school/2nd_sim/C_Cpp/project_4/Vector.h
+stdlib.h
+-
+

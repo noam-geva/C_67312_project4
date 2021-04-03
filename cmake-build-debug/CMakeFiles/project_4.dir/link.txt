@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/project_4.dir/main.c.o CMakeFiles/project_4.dir/Vector.c.o CMakeFiles/project_4.dir/HashMap.c.o CMakeFiles/project_4.dir/Pair.c.o  -o project_4.exe -Wl,--out-implib,libproject_4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
